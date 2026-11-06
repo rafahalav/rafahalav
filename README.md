@@ -1,8 +1,11 @@
 <div align="center">
 
-<img src="./assets/profile-banner.png"
+<img src="./profile-banner.png"
      alt="Rafael Halav - Technology Banner"
      width="100%" />
+
+</div>
+
 
 </div>
 
