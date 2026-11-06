@@ -1,3 +1,12 @@
+
+<div align="center">
+
+<img src="./assets/profile-banner.png"
+     alt="Rafael Halav - Technology Banner"
+     width="100%" />
+
+</div>
+
 # Rafael Halav
 
 <div align="center">
