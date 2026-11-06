@@ -14,7 +14,7 @@
 
 ### Technology Professional | Telecommunications | IT | Python | AI | Data
 
-**Nearly 30 Years of Professional Experience**
+**More Than 25 Years of Professional Experience**
 
 Electrical Technology · Telecommunications · IT Education · Software Development
 
@@ -34,7 +34,7 @@ Electrical Technology · Telecommunications · IT Education · Software Developm
 
 ## 👨‍💻 About Me
 
-I am a technology professional with **nearly 30 years of professional experience**, built through different technical fields, including energy, electrical technology, telecommunications, and Information Technology education.
+I am a technology professional with **more than 25 years of professional experience**, built through different technical fields, including energy, electrical technology, telecommunications, and Information Technology education.
 
 My professional journey began in the energy and electrical sector, working as an electrician and electrotechnician. I later transitioned into telecommunications, expanding my experience in technical infrastructure, troubleshooting, and technology.
 
@@ -46,7 +46,7 @@ My background combines hands-on technical experience, analytical thinking, probl
 
 I believe that combining practical experience with modern technology creates opportunities to develop meaningful solutions to real-world problems.
 
-> Nearly 30 years of professional experience. A new chapter in technology.
+> More than 25 years of professional experience. A new chapter in technology.
 
 ---
 
