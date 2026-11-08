@@ -32,7 +32,7 @@ Electrical Technology · Telecommunications · IT Education · Software Developm
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
 I am a technology professional with **more than 25 years of professional experience**, built through different technical fields, including energy, electrical technology, telecommunications, and Information Technology education.
 
