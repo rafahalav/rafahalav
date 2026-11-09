@@ -195,7 +195,7 @@ TECHNICAL DEVELOPMENT
     ├── Artificial Intelligence
     ├── Machine Learning Fundamentals
     ├── Data Analysis & Visualization
-    ── AI Model Evaluation & RLHF
+    └── AI Model Evaluation & RLHF
 ```
 
 I believe that continuous learning, practical experience, and curiosity are essential for professional growth.
