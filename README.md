@@ -239,4 +239,3 @@ I believe that continuous learning, practical experience, and curiosity are esse
 <sub>Energy · Electrical Technology · Telecommunications · IT · Programming · AI · Data</sub>
 
 </div>
-```
