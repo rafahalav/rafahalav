@@ -164,25 +164,38 @@ My current professional development focuses on strengthening programming fundame
 ```text
 TECHNICAL DEVELOPMENT
 
-├── Programming
-│   ├── Python
-│   └── C
+├── Programming & Development
+│   ├── Python (Primary Focus)
+│   ├── C (Learning)
+│   ├── Bash & Shell Scripting
+│   ├── HTML/CSS/JavaScript (Projects)
+│   └── Multi-Language Adaptability
 │
 ├── Operating Systems
-│   ├── Linux
-│   ├── Debian
-│   └── MX Linux
+│   ├── Linux (Primary)
+│   │   ├── Debian-based (Debian, MX Linux)
+│   │   ├── Arch-based (Arch Linux)
+│   │   └── Other Distributions
+│   ├── Windows (Daily Use)
+│   ├── macOS (Familiarity)
+│   └── Android (Basic)
 │
-├── Automation
-│   └── Bash & Shell Scripting
+├── System Administration
+│   ├── Linux System Administration
+│   ├── Hardware Maintenance
+│   └── Technical Troubleshooting
 │
-├── Software Development
-│   └── Practical Projects
+├── Development Tools
+│   ├── Git & GitHub
+│   ├── Terminal/CLI
+│   ├── Text Editors & IDEs
+│   └── Makefile
 │
 └── Emerging Technologies
     ├── Artificial Intelligence
-    ├── Data Analysis
-    └── AI Evaluation
+    ├── Machine Learning Fundamentals
+    ├── Data Analysis & Visualization
+    ── AI Model Evaluation & RLHF
 ```
 
 I believe that continuous learning, practical experience, and curiosity are essential for professional growth.
