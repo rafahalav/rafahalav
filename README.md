@@ -230,8 +230,6 @@ I believe that continuous learning, practical experience, and curiosity are esse
 
 </div>
 
----
-
 <div align="center">
 
 ### Practical Experience · Technology · Continuous Learning
